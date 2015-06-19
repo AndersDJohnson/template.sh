@@ -1,2 +1,2 @@
 # template.sh
-Templates with interpolated variables in Bash.
+Templates files with interpolated variables in Bash.
