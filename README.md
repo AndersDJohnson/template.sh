@@ -28,5 +28,5 @@ This is a template file by Anders on Fri Jun 19 16:52:18 CDT 2015.
 
 Newlines are OK too.
 
-You can even do Bash things like Bndres replacements and command substitution.
+You can even do Bash things like Bnders replacements and command substitution.
 ```
